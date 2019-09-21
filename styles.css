@@ -1,0 +1,130 @@
+
+   body {
+    background-image: url("images/astana2.jpg");
+
+    width: 100%;
+    margin: 0 auto;
+}
+.center-of-page {
+    width: 1024px;
+    height: 100%;
+    margin: 0 auto;
+}
+.menu {
+    background-color: #333131;
+    height: 84px;
+    opacity: 0.7;
+    display: flex;
+    width: 100%;
+}
+.menu ul {
+    display: flex;
+    width: 100%;
+    justify-content: center;
+    align-items: center;
+    padding: 0;
+}
+.menu ul li {
+    display: inline-block;
+    vertical-align: middle;
+    font-size: 20pt;
+    padding: 30px 39px 24px 28px;
+    color: #e0e0e0;
+}
+
+.circle img{
+    width: 8%;
+    margin-left: 602px;
+    opacity: 1;
+    z-index: 2;
+}
+.middle {
+    background: rgba(77, 81, 84, 0.9);
+    height: 100%;
+    z-index: -1;
+}
+.row {
+    display: flex;
+}
+.portrait {
+    height: 500px;
+    width: 35%;
+    margin-left: 38px;
+    margin-top: 15px;
+}
+.portrait img{
+    width: 100%;
+    opacity: 1;
+    display: flex;
+    border: 4px solid black;
+}
+.portrait h1 {
+    text-align: center;
+    margin: 0 auto;
+    font-size: 32px;
+}
+.contacts {
+    display: block;
+    width: 48%;
+    justify-content: center;
+    text-align: center;
+}
+.link {
+    text-decoration: none;
+    color: black;
+    font-size: 25px;
+}
+.link1 {
+    text-decoration: underline;
+    color: white;
+}
+.link2 {
+    text-decoration: line-through;
+    color: black;
+}
+p {
+    font-size: 22px;
+    color: white;
+}
+h2 {
+    font-size: 30px;
+    color: black;
+}
+h1 {
+    color: black;
+}
+.row2 {
+    width: 100%;
+    display: flex;
+    margin-left: 38px;
+}
+.summary {
+    margin-top: -85px;
+    width: 47%;
+}
+.skills {
+    display: block;
+    text-align: center;
+    width: 50%;
+    margin-top: -85px;
+}
+.row3 {
+    width: 100%;
+    display: flex;
+    margin-left: 38px;
+}
+.languages {
+    width: 47%;
+}
+.education {
+    width: 50%;
+    display: block;
+    text-align: center;
+}
+footer {
+    background-color: rgba(51, 49, 49, 0.7);;
+    height: 60px;
+    width: 100%;
+    display: flex;
+    justify-content: center;    
+}
