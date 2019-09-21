@@ -41,3 +41,7 @@ No project :(
 ## Education:  
 * 2012-2017 BSUIR: Faculty of Radioengineering and Electronics
 * 2017-2018 BSUIR: Master degree, specialized in informational Radiotechnologies  
+
+## Foreight languages:
+* English: A2 
+* ~~Qazaq tili: C2~~
